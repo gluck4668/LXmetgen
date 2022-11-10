@@ -1,0 +1,13 @@
+Package: LXmetgen
+Type: Package
+Title: LXmetgen: gene and metabolite joint analysis
+Version: 2022.01
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXmetgen package can be used to analyze the joint-pathways between the genes and metabolites.
+             It cited the several R packages publised by "https://www.metaboanalyst.ca/MetaboAnalyst".
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
